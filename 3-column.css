@@ -35,7 +35,7 @@ body{
 }
 .head p{
     padding: 30px 30px 0px 50px;
-    color: hsla(0, 0%, 100%, 0.75);
+    color: hsl(0, 0%, 100%, 0.75);
     line-height: 1.5rem;
 }
 
