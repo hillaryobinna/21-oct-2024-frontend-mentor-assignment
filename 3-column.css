@@ -10,7 +10,7 @@ body{
 .grid{
     width: 60%;
     height: 500px;
-    background-color: aqua;
+   /* background-color: aqua;*/
     margin: 100px auto;
     border-radius: 20px;
     display: flex;
