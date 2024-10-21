@@ -1,0 +1,142 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: hsl(0, 0%, 95%);
+}
+.grid{
+    width: 60%;
+    height: 500px;
+    background-color: aqua;
+    margin: 100px auto;
+    border-radius: 20px;
+    display: flex;
+   
+ 
+}
+.head{
+    background-color: hsl(31, 77%, 52%);
+    width: 100%;
+    height: 500px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    position: relative;
+
+}
+.head img{
+    padding: 50px 0px 0px 50px;
+}
+.head h1{
+    padding: 30px 0px 0px 50px;
+    color: hsl(0, 0%, 95%);
+}
+.head p{
+    padding: 30px 30px 0px 50px;
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 1.5rem;
+}
+
+.botton{
+    color:  hsl(31, 77%, 52%);
+    width: 150px;
+    height: 50px;
+    background-color: hsl(0, 0%, 95%);
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    border-radius: 30px;
+    
+}
+
+
+
+
+
+/*.......second section*/
+.head1{
+    background-color: hsl(184, 100%, 22%);
+    width: 100%;
+    height: 500px;
+   /* border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;*/
+    position: relative;
+
+
+}
+.head1 img{
+    padding: 50px 0px 0px 50px;
+}
+.head1 h1{
+    padding: 30px 0px 0px 50px;
+    color: hsl(0, 0%, 95%);
+}
+.head1 p{
+    padding: 30px 30px 0px 50px;
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 1.5rem;
+}
+
+.botton1{
+    width: 150px;
+    height: 50px;
+    background-color: hsl(0, 0%, 95%);
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    border-radius: 30px;
+    color:  hsl(184, 100%, 22%);
+    
+}
+
+
+
+
+
+/*....third section */
+
+.head2{
+    background-color:  hsl(179, 100%, 13%);
+    width: 100%;
+    height: 500px;
+    position: relative;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+
+}
+.head2 img{
+    padding: 50px 0px 0px 50px;
+}
+.head2 h1{
+    padding: 30px 0px 0px 50px;
+    color: hsl(0, 0%, 95%);
+}
+.head2 p{
+    padding: 30px 30px 0px 50px;
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 1.5rem;
+}
+
+.botton2{
+    width: 150px;
+    height: 50px;
+    background-color: hsl(0, 0%, 95%);
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    border-radius: 30px;
+    color:hsl(179, 100%, 13%) ;
+    
+}
